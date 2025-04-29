@@ -14,7 +14,7 @@ export default function AboutFull() {
 
             I'm currently working as a Senior Product Analyst at FactSet (since September 2024), where I'm into product management, working with engineers and cross functional teams to design scalable data pipelines, uncovering insights, and collaborating across teams to turn complex data into meaningful solutions.<br /><br />
 
-            I graduated from CMR College of Engineering and Technology, where I pursued a degree with a minor in Artificial Intelligence & Machine Learning. During my time there, I served as the Student Council Board Head, leading various student-driven initiatives and campus events that helped shape a vibrant, collaborative environment.<br /><br />
+            I graduated from CMR College of Engineering and Technology, I pursued a Bachelor's degree with a major in Electronics and Communication Engineering (ECE) and a minor in Artificial Intelligence and Machine Learning (AI & ML).. During my time there, I served as the Student Council Board Head, leading various student-driven initiatives and campus events that helped shape a vibrant, collaborative environment.<br /><br />
 
             As a proud cadet in the National Cadet Corps (NCC), I successfully completed my C Certificate, gaining invaluable discipline, leadership, and teamwork experience.<br /><br />
 
