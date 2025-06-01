@@ -83,7 +83,7 @@ const Index = () => {
                 Sahil Shaik
               </h1>
               <h2 className="text-2xl md:text-3xl mb-6 text-foreground/70 animate-fade-in animate-delay-100">
-                Senior Product Analyst | Data Storyteller | Solving Problems Through Code
+                Senior Product Analyst | Solving Problems Through Code
               </h2>
               <p className="text-xl mb-10 text-foreground/60 max-w-2xl animate-fade-in animate-delay-200">
                 Turning ideas into impact, one line of code at a time.
@@ -98,7 +98,7 @@ const Index = () => {
                 <Button 
                   variant="secondary"
                   className="apple-btn-secondary glassmorphism"
-                  onClick={() => window.open("https://drive.google.com/file/d/1RCXTGHoD8HXuZLWIM6_CWGGp4lpWVNv-/view?usp=sharing", "_blank")}
+                  onClick={() => window.open("https://drive.google.com/file/d/1uRZycvVWYdc1GPy30oPCZl-Ni0gzYCr2/view?usp=sharing", "_blank")}
                 >
                   <FileText className="w-4 h-4 mr-2" />
                   View Resume
@@ -124,7 +124,6 @@ const Index = () => {
       
       {/* About Section */}
       <section id="about" className="relative transform-gpu transition-transform duration-500">
-        <div className="absolute inset-0 bg-secondary/40" />
         <div className="container mx-auto relative z-10">
           <SectionHeading 
             title="About Me" 
@@ -204,7 +203,6 @@ const Index = () => {
       
       {/* Projects Section */}
       <section id="projects" className="relative transform-gpu transition-transform duration-500">
-        <div className="absolute inset-0 bg-secondary/40" />
         <div className="container mx-auto relative z-10">
           <SectionHeading 
             title="Projects" 
@@ -308,7 +306,6 @@ const Index = () => {
       
       {/* Skills Section */}
       <section id="skills" className="relative transform-gpu transition-transform duration-500">
-        <div className="absolute inset-0 bg-secondary/40" />
         <div className="container mx-auto relative z-10">
           <SectionHeading 
             title="Skills" 

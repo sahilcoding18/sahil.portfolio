@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { Home, ArrowLeft } from "lucide-react";
@@ -47,8 +46,8 @@ export default function Navbar() {
     <header
       className={`fixed top-0 left-0 w-full z-50 transition-all duration-500 ${
         scrolled
-          ? "glassmorphism py-2"
-          : "bg-transparent py-4"
+          ? "glassmorphism py-4"
+          : "bg-transparent py-6"
       }`}
     >
       <div className="container mx-auto px-6 md:px-12 flex items-center justify-between">
